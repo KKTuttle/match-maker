@@ -1,0 +1,23 @@
+h1{
+  text-align: center;
+  text-decoration: overline;
+}
+
+img{
+  width: 100%;
+}
+
+button{
+  margin-top: 15px;
+}
+
+.explanation{
+  text-align: justify;
+}
+
+.title{
+  margin-bottom: 40px;
+}
+.mandatory{
+  color: red;
+}
